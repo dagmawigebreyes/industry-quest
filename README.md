@@ -34,7 +34,7 @@ The learning experience is designed to make unfamiliar industries more approacha
 
 Career Mode connects industry knowledge directly to recruiting preparation.
 
-Rather than focusing only on memorizing information, users practice **how to think through interview questions**, structure their approach, and apply relevant industry knowledge in recruiting scenarios.
+Rather than focusing only on memorizing information, users practice how to think through role-specific problems, structure their approach, and apply relevant industry knowledge in recruiting scenarios.
 
 ### 🗂️ Archive
 
