@@ -76,16 +76,29 @@ This structure allowed us to combine industry research, current events, and inte
 ## Screenshots
 
 ### Home
-[Add screenshot]
+Industry Quest combines daily industry learning with recruiting-focused skill development.
 
-### Daily Quest
-[Add screenshot]
+![Industry Quest Home](home.png)
+
+### Duolingo-Style Daily Quest
+Short daily quizzes use current industry developments to help users continuously build industry fluency.
+
+![Daily Quest](daily-quest.png)
 
 ### Career Mode
-[Add screenshot]
+Career Mode provides role-specific development through structured cases, skill progression, and recruiting preparation.
 
-### Learning Experience
-[Add screenshot]
+![Career Mode](career-mode.png)
+
+### Applied Thinking Cases
+Interactive cases train users how to approach decisions, identify the information that matters, and develop the underlying thinking skills required for the role.
+
+![Applied Thinking Case](thinking-case.png)
+
+### Interview Practice
+A structured question bank helps users practice role-specific recruiting concepts across key skill areas and revisit material over time.
+
+![Question Bank](question-bank.png)
 
 ## Recognition
 
