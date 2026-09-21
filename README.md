@@ -4,6 +4,10 @@ A gamified web product that helps MBA students build industry fluency, stay curr
 
 **🥉 3rd Place — UCLA Anderson Buildathon**
 
+## Demo
+
+[View the live demo](https://industry-quest.netlify.app/)
+
 ## Problem
 
 MBA recruiting often requires students to quickly build fluency in unfamiliar industries while simultaneously keeping up with current developments and preparing for interviews.
